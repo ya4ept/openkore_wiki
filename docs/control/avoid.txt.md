@@ -5,7 +5,7 @@ categories:
   - control
 ---
 
-Kore has the ability to avoid certain players. If the option [avoidList](../config.txt/avoidList.md) in [config.txt](/cat/config.txt/) is enabled, you can list players in the file avoid.txt to make Kore automatically avoid certain players. Also in the **\[Jobs\]** section, you can list the professions that should be avoided. For example, it is known that priests most often pursue bots, they can heal a mob or hang up any status and watch the reaction of the bot.
+Kore has the ability to avoid certain players. If the option [avoidList](../config.txt/avoidList.md) in [config.txt](/cat/configtxt/) is enabled, you can list players in the file avoid.txt to make Kore automatically avoid certain players. Also in the **\[Jobs\]** section, you can list the professions that should be avoided. For example, it is known that priests most often pursue bots, they can heal a mob or hang up any status and watch the reaction of the bot.
 
 Depending on how you set the corresponding options for each player in the list, Kore can either disconnect or teleport when a player in the avoid list is seen. You can also make Kore disconnect when you detect a chat message from a player in the list. The file **avoid.txt** has three sections: **\[Players\]**, **\[ID\]** and **\[Jobs\]**.
 

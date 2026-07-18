@@ -16,4 +16,4 @@ If Kore is [following a player](follow.md) and this option is set to **1**, Kore
     --8<-- "template/OnlyWhenAiAuto.md"
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack)

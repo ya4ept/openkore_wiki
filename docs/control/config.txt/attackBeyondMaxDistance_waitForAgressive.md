@@ -21,4 +21,4 @@ Appeared in :simple-github: [PR#3628](https://github.com/OpenKore/openkore/pull/
     The following attack keys are meant to work only in private server (rAthena/Hercules). If you enable this in a official server you character will act weird, because character can't attack beyond the range.
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack) | [homunculus](/cat/homunculus) | [mercenary](/cat/mercenary)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack) | [homunculus](/cat/homunculus) | [mercenary](/cat/mercenary)

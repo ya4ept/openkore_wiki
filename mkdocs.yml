@@ -6,7 +6,7 @@
 # ==========================================================================
 #
 site_name: OpenKore Wiki
-site_url: https://ya4ept.github.io/
+site_url: https://ya4ept.github.io/openkore_wiki/
 site_description: >-
   Документация OpenKore — открытого бота для Ragnarok Online.
   Мигрировано с MediaWiki на MkDocs Material.
@@ -83,7 +83,7 @@ plugins:
       generate_index: true
       verbose: false
       base_name: 'cat'
-      section_title: 'AAAAAAAAAAAA' # не понятно, что это?
+      section_title: 'Category' # Название раздела внизу страницы
       no_nav: false # отключает боковое меню. Не работает при использовании "awesome-nav"
       category_separator: '|'
 

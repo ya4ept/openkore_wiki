@@ -10,4 +10,4 @@ categories:
 If this option is set, then the bot will change its target to a closer aggressive monster.
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack)

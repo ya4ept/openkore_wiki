@@ -25,4 +25,4 @@ Determines auto attack behavior.
     If no appropriate monsters found, the next check will be performed after [ai_attack_auto](timeouts.txt.md#ai_attack) seconds.
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack)

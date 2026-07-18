@@ -111,7 +111,7 @@ Equipment slot names used by Openkore.
 
 Message domains are names used to classify messages printed in the console.
 
-For information about a certain messages that you see in your console, set the option [showDomain](control/config.txt/showDomain.md) in [config.txt](cat/config.txt.md) to **1**, making Openkore display domains along with messages in the console.
+For information about a certain messages that you see in your console, set the option [showDomain](control/config.txt/showDomain.md) in [config.txt](cat/configtxt.md) to **1**, making Openkore display domains along with messages in the console.
 
 ### List of Message Domains
 

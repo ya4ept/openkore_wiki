@@ -31,10 +31,10 @@ _Курсив_
     пример чего-нибудь
 ```
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack)
 ```
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack)
 ```
 ## Иконки
 

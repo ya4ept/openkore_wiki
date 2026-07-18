@@ -19,4 +19,4 @@ This options sets whether auto-attack will be disabled outside the [lockMap](loc
 | 2 or any greater value | Attack monsters only on [lockMap](lockMap.md). |
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack) | [fields](/cat/fields) | [homunculus](/cat/homunculus) | [mercenary](/cat/mercenary)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack) | [fields](/cat/fields) | [homunculus](/cat/homunculus) | [mercenary](/cat/mercenary)

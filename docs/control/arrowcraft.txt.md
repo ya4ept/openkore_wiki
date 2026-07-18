@@ -4,7 +4,7 @@ categories:
   - control
 ---
 
-If you have the Arrow Crafting Skill, Kore can automatically craft arrows for you. If the option [autoMakeArrows](../config.txt/autoMakeArrows.md) in [config.txt](../../cat/config.txt) is enabled, you can list items in the file arrowcraft.txt to make Kore automatically create arrows using the specified items.
+If you have the Arrow Crafting Skill, Kore can automatically craft arrows for you. If the option [autoMakeArrows](../config.txt/autoMakeArrows.md) in [config.txt](../../cat/configtxt) is enabled, you can list items in the file arrowcraft.txt to make Kore automatically create arrows using the specified items.
 
 ## Syntax
 

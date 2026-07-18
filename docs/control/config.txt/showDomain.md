@@ -10,4 +10,4 @@ categories:
 Displays [domain](../../References.md/#message_domains) names along with messages in the console.
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [log](/cat/config.txt-log)
+    Category: [config.txt](/cat/configtxt) | [log](/cat/configtxt-log)

@@ -18,4 +18,4 @@ Equip the specified equipment on the corresponding equipment slot when attacking
     ```
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack) | [items](/cat/config.txt-items)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack) | [items](/cat/configtxt-items)

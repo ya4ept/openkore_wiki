@@ -11,11 +11,11 @@ Kore allows authorized players to issue commands by using messages in private, p
 Before you are allowed to use Chat Commands, Kore must recognize you as authorized or it will just ignore your commands. There are two ways to give authorizization to a player:
 
 1. by using the console command [auth](../console_command/auth.md) specifying the name of the player to authorize, or
-2. by sending Kore a private message that contains the [adminPassword](../control/config.txt/adminPassword.md) set in its [config.txt](/cat/config.txt) (only if [inGameAuth](../control/config.txt/inGameAuth.md) is enabled).
+2. by sending Kore a private message that contains the [adminPassword](../control/config.txt/adminPassword.md) set in its [config.txt](/cat/configtxt) (only if [inGameAuth](../control/config.txt/inGameAuth.md) is enabled).
 
 ## Callsign
 
-You can send chat commands directly to Kore by using private messages, however, issuing commands in party or guild chat is different. When using party or guild chat, you need to include in your message the [callSign](../control/config.txt/callSign.md) set in its [config.txt](/cat/config.txt). For example, if Kore has "Slave" as its callsign, you would use the following command to make it follow you around:
+You can send chat commands directly to Kore by using private messages, however, issuing commands in party or guild chat is different. When using party or guild chat, you need to include in your message the [callSign](../control/config.txt/callSign.md) set in its [config.txt](/cat/configtxt). For example, if Kore has "Slave" as its callsign, you would use the following command to make it follow you around:
 
 !!! Example
     `Slave follow`
@@ -76,7 +76,7 @@ Change a configuration key.
     conf <label_name>.( <attribute> | block ) [ <value> | none ]
     ```
 
-`<config_key>` - a configuration key name from [config.txt](/cat/config.txt).
+`<config_key>` - a configuration key name from [config.txt](/cat/configtxt).
 
 `<value>` - any value depending on the configuration key being changed.
 
@@ -280,7 +280,7 @@ Tell Kore to turn verbose off. Kore will not reply to chat commands when verbose
 Tell Kore to sit.
 
 !!! note
-    To ensure that Kore will stay put, this command will set the [config.txt](/cat/config.txt) option [`attackAuto`](../control/config.txt/attackAuto.md) to **1**, and the options [`attackAuto_party`](../control/config.txt/attackAuto_party.md), [`route_randomWalk`](../control/config.txt/route_randomWalk.md), [`teleportAuto_idle`](../control/config.txt/teleportAuto_idle.md), and [`itemsGatherAuto`](../control/config.txt/itemsGatherAuto.md) to **0**. The original values are stored so they can be reset when the stand command is used.
+    To ensure that Kore will stay put, this command will set the [config.txt](/cat/configtxt) option [`attackAuto`](../control/config.txt/attackAuto.md) to **1**, and the options [`attackAuto_party`](../control/config.txt/attackAuto_party.md), [`route_randomWalk`](../control/config.txt/route_randomWalk.md), [`teleportAuto_idle`](../control/config.txt/teleportAuto_idle.md), and [`itemsGatherAuto`](../control/config.txt/itemsGatherAuto.md) to **0**. The original values are stored so they can be reset when the stand command is used.
 
 ---
 
@@ -295,7 +295,7 @@ Tell Kore to turn verbose on. Kore will reply to chat commands when verbose is o
 Tell Kore to stand.
 
 !!! note
-    If you previously used the sit command to force Kore to sit, this will set the [config.txt](/cat/config.txt) options [`attackAuto`](../control/config.txt/attackAuto.md), [`attackAuto_party`](../control/config.txt/attackAuto_party.md), [`route_randomWalk`](../control/config.txt/route_randomWalk.md), [`teleportAuto_idle`](../control/config.txt/teleportAuto_idle.md), and [`itemsGatherAuto`](../control/config.txt/itemsGatherAuto.md) to their original values.
+    If you previously used the sit command to force Kore to sit, this will set the [config.txt](/cat/configtxt) options [`attackAuto`](../control/config.txt/attackAuto.md), [`attackAuto_party`](../control/config.txt/attackAuto_party.md), [`route_randomWalk`](../control/config.txt/route_randomWalk.md), [`teleportAuto_idle`](../control/config.txt/teleportAuto_idle.md), and [`itemsGatherAuto`](../control/config.txt/itemsGatherAuto.md) to their original values.
 
 ---
 

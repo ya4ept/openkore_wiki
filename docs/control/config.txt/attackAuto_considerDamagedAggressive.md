@@ -16,4 +16,4 @@ This option sets whether auto-attack will consider targets damaged by the charac
 Appeared in :simple-github: [PR#3626](https://github.com/OpenKore/openkore/pull/3626) and :simple-github: [PR#3633](https://github.com/OpenKore/openkore/pull/3633)
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack) | [homunculus](/cat/homunculus) | [mercenary](/cat/mercenary)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack) | [homunculus](/cat/homunculus) | [mercenary](/cat/mercenary)

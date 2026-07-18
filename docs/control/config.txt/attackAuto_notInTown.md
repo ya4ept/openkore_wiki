@@ -11,4 +11,4 @@ categories:
 If this option is set, disables [auto attack](attackAuto.md) when in a [city](../tables/cities.txt.md).
 
 !!! tip ""
-    Category: [config.txt](/cat/config.txt) | [attack](/cat/config.txt-attack) | [fields](/cat/fields)
+    Category: [config.txt](/cat/configtxt) | [attack](/cat/configtxt-attack) | [fields](/cat/fields)
